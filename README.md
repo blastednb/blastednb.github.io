@@ -1,2 +1,0 @@
-# blastednb.github.io
-website
