@@ -2,6 +2,11 @@
   src: url("Krungthep.ttf") format("truetype")
 }
 
+.red
+{
+ color: #ff0000 
+}
+
 
 p.frage
 {
