@@ -24,6 +24,12 @@ h1 {
   text-align: center;
 }
 
+
+
+h1.whereami {
+  color: #ff0000 
+}
+
 .picture {
   height: 50%;
   background-size: contain;
