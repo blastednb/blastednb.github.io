@@ -2,6 +2,14 @@
   src: url("Krungthep.ttf") format("truetype")
 }
 
+
+p.frage
+{
+ font-style: italic;
+ color: #A9A9A9 
+}
+
+
 * {
   color: #000000;
   font-family: Krungthep;
@@ -67,8 +75,4 @@ li
   align: center;
 }
 
-p.frage
-{
- font-style: italic;
- color: #A9A9A9 
-  }
+
