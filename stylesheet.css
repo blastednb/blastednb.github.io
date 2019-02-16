@@ -66,3 +66,9 @@ li
 {
   align: center;
 }
+
+p.frage
+{
+ font-style: italic;
+ color: #A9A9A9 
+  }
