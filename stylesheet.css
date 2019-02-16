@@ -9,6 +9,11 @@ p.frage
  color: 	#303030
 }
 
+p.antwort
+{
+ font-style: normal;
+ 
+}
 
 * {
   color: #000000;
