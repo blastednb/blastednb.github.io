@@ -10,13 +10,26 @@ a.red
 
 p.frage
 {
- font-style: italic;
+ font-style: bold;
  color: 	#303030
 }
 
 p.antwort
 {
  font-style: normal;
+ 
+}
+p.fragecz
+{
+ font-style: bold;
+font-family:courier;
+ color: 	#303030
+}
+
+p.antwortcz
+{
+ font-style: normal;
+  font-family:courier
  
 }
 
