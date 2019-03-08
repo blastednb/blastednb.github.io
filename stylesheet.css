@@ -10,7 +10,7 @@ a.red
 
 p.frage
 {
- font-style: bold;
+ font-weight: bold;
  color: 	#303030
 }
 
@@ -21,7 +21,7 @@ p.antwort
 }
 p.fragecz
 {
- font-style: bold;
+ font-weight: bold;
 font-family:courier;
  color: 	#303030
 }
