@@ -10,12 +10,15 @@ a.red
 
 p.frage
 {
+  font-family:courier;
  font-weight: bold;
  color: 	#303030
+   
 }
 
 p.antwort
 {
+  font-family:courier;
  font-style: normal;
   font-weight: normal;
  
