@@ -7,6 +7,11 @@ a.red
  color: #ff0000 
 }
 
+span.answeringname
+{
+  font-family:courier;
+   font-weight: bold;
+}
 
 p.frage
 {
