@@ -73,6 +73,8 @@ h1.whereami {
 }
 
 .content {
+  font-style: normal;
+  font-weight: normal;
   width: 80%;
   padding: 5%;
   text-align: center;
